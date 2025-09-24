@@ -35,6 +35,7 @@ After the first completed pair with current index n satisfying n+1 ≥ 2^k, reco
 At checkpoints 2^k, leader density appears to approach ≈ 0.531666… (≈ 53⅙%), merger ≈ 0.468333… (≈ 46⅚%).
 
 at 2^k where k is integer, the green : blue ratio known by running the script is shown as below:
+(the script starts from 3, and so it's G)
 2^3 50.00000000% 50.00000000%
 2^4 50.00000000% 50.00000000%
 2^6 53.33333333% 46.66666667%
